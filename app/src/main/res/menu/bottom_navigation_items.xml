@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/mMovie"
+        android:icon="@drawable/ic_movie"
+        android:title="Movie"/>
+
+    <item
+        android:id="@+id/mBook"
+        android:icon="@drawable/ic_book"
+        android:title="Book" />
+</menu>
